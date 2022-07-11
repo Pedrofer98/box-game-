@@ -1,4 +1,22 @@
+#body{
+    background-color: black ;
+    color: antiquewhite;
+    display:grid;
+    grid-template-rows: auto;
+}
+.container1{
+    background-color:olive ;
+    display: grid;
+
+}
+
+.brickline0{
+    background-color: black;
+
+}
+
 .brickline-1{
     display: grid;
     background-color: slateblue;
+    padding:2px
 }
